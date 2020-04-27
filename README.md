@@ -1,2 +1,2 @@
-# pullall
-A simple script that pulls all directories in your current directory
+# scripts
+a few useful scripts
